@@ -2,4 +2,4 @@
 Tuesday class training to make a gifthub repository.
 
 
-tuesday
+tuesday 1/24/2023
