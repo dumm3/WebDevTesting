@@ -1,0 +1,94 @@
+/*..............text elements.................*/
+
+body {background-color:EEE0CB}
+
+h1 {background-color: EDB6A3; 
+	text-align:center; 
+	font-family:lucida handwriting, georgia;
+	font-size: 120px;
+	margin: 100px 150px;}
+
+h2{background-color:92b4a7;
+ 	text-align:center;
+ 	font-family: verdana;
+ 	font-size: 50px; 
+ 	margin:80px 50px;}  
+
+p{background-color:B7CECE;
+ 	font-size:25px ;
+ 	text-align: center;
+ 	margin:80px 50px;
+ 	padding:60px 110px;
+ 	font-family:giorgia;}
+
+h3{background-color:B7CECE;
+  font-size: 40px;
+ 	text-align:center;
+ 	font-family: giorgia;
+  margin:50px 30px;
+  padding:25px 20px;} 
+
+li{font-size:25px;
+ 	font-family:giorgia;}
+
+h6{
+  font-size:15px;
+  font-family:verdana;
+  padding:2px 30px 35px 5px;
+  margin:5px 40px;}
+
+#paintings{
+
+  text-align:center;
+  padding:10px 00px 30px 25px;
+  margin:10px 60px 30px 25px;
+  line-height:40px;}
+
+#decoration{
+  font-size:30px;
+  text-align:center;
+  padding:80px 80px 80px 35px;
+  margin:80px 80px 80px 35px;
+  line-height:80px;}
+
+/*.......................images..................*/ 
+#image1 {
+ margin-left:250px;
+ margin-bottom:50px;
+ padding:25px 30px 100px 30px;
+ float:left;}
+
+#image2 {
+ margin-right:200px;
+ float:right; 
+ margin-top: 70px;}
+
+#image3{
+  text-align:center;
+  margin:25px 20px;}
+
+#image4{
+  text-align:center;
+  margin:25px 20px;}
+
+#image5{
+  text-align:center;
+  margin:25px 20px;}
+/*.......................Links...................*/  
+
+a.backtotop{
+  color:black;  
+  text-decoration:none;
+  font-weight: bold;
+  font-size:50px ;  
+  font-family:giorgia;
+  background-color:92b4a7;
+  padding:10px 20px; 
+  margin:35px 60px 75px 60px;}
+
+a.backtotop:hover{
+  color:white;
+  background-color:B7CECE;}  
+
+
+
